@@ -26,23 +26,3 @@ int main() {
   music.stop();
   return 0;
 }
-
-#main
-#if
-#endif
-#inndef
-
-
-typedef vector
-class obj{
-	private:
-		int health;
-		int x;
-		int y;
-		int 
-		
-
-
-
-
-};
