@@ -1,7 +1,7 @@
 #include "header.h"
 #include "Plant.h"
 #include "Game.h"
-//#include "Game.hpp"
+
 Plant::Plant(Game* _game,int _x,int _y,float _health,const vector<Texture>& _images,int _countdown,int _countdown2,string _name){
 	game=_game;
 	x=_x;
